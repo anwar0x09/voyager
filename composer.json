@@ -24,7 +24,7 @@
         "illuminate/support": "~5.4.0|~5.5.0|~5.6.0|5.7.x-dev",
         "intervention/image": "^2.4",
         "doctrine/dbal": "~2.5.0|~2.6.0|~2.7.0",
-        "larapack/doctrine-support": "~0.1.4|master-dev",
+        "larapack/doctrine-support": "~0.1.4|0.1.x-dev",
         "arrilot/laravel-widgets": "^3.7",
         "league/flysystem": "~1.0.41",
         "larapack/voyager-hooks": "~1.0.5"
